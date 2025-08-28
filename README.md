@@ -3,10 +3,10 @@
 ---
 
 ### **Bước 1: Clone dự án**
-1. Truy cập vào link GitLab của dự án: [https://gitlab.com/only1huyle/nodejs.git](https://gitlab.com/only1huyle/nodejs.git).
+1. Truy cập vào link GitLab của dự án: [https://github.com/1huyle/nodejs](https://github.com/1huyle/nodejs).
 2. Sử dụng lệnh sau để clone dự án về máy:
    ```bash
-   git clone https://gitlab.com/only1huyle/nodejs.git
+   git clone https://github.com/1huyle/nodejs
    ```
 3. Di chuyển vào thư mục dự án:
    ```bash
